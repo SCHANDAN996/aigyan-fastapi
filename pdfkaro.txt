@@ -1,96 +1,46 @@
-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
-AAA=
-UEsDBBQACAgIAKKa4lIAAAAAAAAAAAAAAAAKAAAAcHJvY2ZpbGVV
-VAUAA9P+L2Xz/i9ldXgLAAEE9QEAAAQUAAAAUEsDBBQACAgIAC6a
-4lIAAAAAAAAAAAAAAAAOAAAAcGRma2Fyby5pbnYudHh0VVQFAAPT
-/i9ldXgLAAEE9QEAAAQUAAAAUEsDBBQACAgIALCa4lIAAAAAAAAA
-AAAAAAAMAAAAYXBwL2FwaS9fX2luaXQuanNVVAUAA9T+L2Xz/i9l
-dXgLAAEE9QEAAAQUAAAAUEsDBBQACAgIAMDZ4lIAAAAAAAAAAAAA
-AAATAAAAYXBwL2FwaS9jb21wcmVzcy5weVVUBQAD1P4vZXP+L2V1
-eAsAAQT1AQAABBQAAABQSwMEFAAICAgAwNriUgAAAAAAAAAAAAAA
-ABEAAABhcHAvYXBpL2NvbnZlcnRpbWcuanNVVAUAA9b+L2Xz/i9l
-dXgLAAEE9QEAAAQUAAAAUEsDBBQACAgIAMDa4lIAAAAAAAAAAAAA
-AAARAAAAYXBwL2FwaS9jcm9wLnB5VVQFAAPY/i9ldXgLAAEE9QEA
-AAQUAAAAUEsDBBQACAgIAMHa4lIAAAAAAAAAAAAAAAARAAAAYXBw
-L2FwaS9lZGl0LnB5VVQFAAPa/i9ldXgLAAEE9QEAAAQUAAAAUEsD
-BQAUAAICAACB4lIAAAAAAAAAAAAAAAAUAAAAYXBwL2FwaS9lZGl0
-bWV0YS5weVVUBQAD2/4vZXP+L2V1eAsAAQT1AQAABBQAAABQSwME
-FAAICAgAgNriUgAAAAAAAAAAAAAAABEAAABhcHAvYXBpL2V4Y2Vs
-MnBkZi5weVVUBQAD3P4vZXP+L2V1eAsAAQT1AQAABBQAAABQSwME
-FAAICAgAgdriUgAAAAAAAAAAAAAAABEAAABhcHAvYXBpL2ZpbGxw
-ZGYucHlVVAYAA9z+L2Xz/i9ldXgLAAEE9QEAAAQUAAAAUEsDBBQAC
-AgIAITa4lIAAAAAAAAAAAAAAAASAAAAYXBwL2FwaS9mbGF0dGVu
-LnB5VVQFAAPg/i9ldXgLAAEE9QEAAAQUAAAA
-UEsDBBQACAgIAIHa4lIAAAAAAAAAAAAAAAAOAAAAYXBwL2FwaS9o
-YWx2ZS5weVVUBQAD4v4vZXP+L2V1eAsAAQT1AQAABBQAAABQSwME
-FAAICAgAhNa4lIAAAAAAAAAAAAAAAASAAAAYXBwL2FwaS9odG1s
-MnBkZi5weVVUBQAD5P4vZXP+L2V1eAsAAQT1AQAABBQAAABQSwME
-FAAICAgAhda4lIAAAAAAAAAAAAAAAARAAAAYXBwL2FwaS9pbWcy
-cGRmLnB5VVQFAAPm/i9ldXgLAAEE9QEAAAQUAAAAUEsDBBQACAgI
-AIXa4lIAAAAAAAAAAAAAAAARAAAAYXBwL2FwaS9pbWdjb21wcmVz
-c29yLnB5VVQFAAPn/i9ldXgLAAEE9QEAAAQUAAAAUEsDBBQACAgI
-AIna4lIAAAAAAAAAAAAAAAARAAAAYXBwL2FwaS9qcGcycGRmLnB5
-VVQFAAPo/i9ldXgLAAEE9QEAAAQUAAAAUEsDBBQACAgIAJLb4lIA
-AAAAAAAAAAAAAAAPAAAAYXBwL2FwaS9tZXJnZS5weVVUBQAD6f4v
-ZXP+L2V1eAsAAQT1AQAABBQAAABQSwMEFAAICAgAkta4lIAAAAAA
-AAAAAAAAAARAAAAYXBwL2FwaS9vY3IucHlVVAYAA+v+L2Xz/i9l
-dXgLAAEE9QEAAAQUAAAAUEsDBBQACAgIAJjb4lIAAAAAAAAAAAAA
-AAAWAAAAYXBwL2FwaS9vY3JfZWRpdC5weVVUBQAD7P4vZXP+L2V1
-eAsAAQT1AQAABBQAAABQSwMEFAAICAgAmNb4lIAAAAAAAAAAAAA
-AAASAAAAYXBwL2FwaS9vcHRpbWl6ZS5weVVUBQAD7f4vZXP+L2V1
-eAsAAQT1AQAABBQAAABQSwMEFAAICAgAnNb4lIAAAAAAAAAAAAA
-AAASAAAAYXBwL2FwaS9vcmdhbml6ZS5weVVUBQAD7/4vZXP+L2V1
-eAsAAQT1AQAABBQAAABQSwMEFAAICAgAn9b4lIAAAAAAAAAAAAA
-AAARAAAAYXBwL2FwaS9wYWdlbnVtLnB5VVQFAAPw/i9ldXgLAAEE
-9QEAAAQUAAAA
-UEsDBBQACAgIAJ/b4lIAAAAAAAAAAAAAAAAUAAAAYXBwL2FwaS9w
-YWdlc2hlZXQucHlVVAYAA/D+L2Xz/i9ldXgLAAEE9QEAAAQUAAAA
-UEsDBBQACAgIAKDb4lIAAAAAAAAAAAAAAAAPAAAAYXBwL2FwaS9w
-ZGZ0ZXN0LnB5VVQFAAP1/i9ldXgLAAEE9QEAAAQUAAAAUEsDBBQAC
-AgIAKXb4lIAAAAAAAAAAAAAAAASAAAAYXBwL2FwaS9zZWN1cml0
-eS5weVVUBQAD9v4vZXP+L2V1eAsAAQT1AQAABBQAAABQSwMEFAAIC
-AgArNb4lIAAAAAAAAAAAAAAAAPAAAAYXBwL2FwaS90ZXN0LnB5VV
-QFAAP3/i9ldXgLAAEE9QEAAAQUAAAAUEsDBBQACAgIAbXb4lIAAA
-AAAAAAAAAAAAANAAAAYXBwL2FwaS90b29scy5weVVUBQAD+P4vZX
-P+L2V1eAsAAQT1AQAABBQAAABQSwMEFAAICAgAwNzb4lIAAAAAAA
-AAAAAAAAAOAAAAYXBwL3V0aWwucHlVVAYAA/j+L2Xz/i9ldXgLAA
-EE9QEAAAQUAAAAUEsDBBQACAgIAD6a4lIAAAAAAAAAAAAAAAATAA
-AAUkVBRE1FLm1kVVQFAAP5/i9ldXgLAAEE9QEAAAQUAAAAUEsBAh
-QAFAAICAgAPpriUgAAAAAAAAAAAAAAACgAAAAAAAAAAACkgRQAAA
-Bwcm9maWxlUEsBAhQAFAAICAgAPpriUgAAAAAAAAAAAAAAADgAAA
-AAAAAAAAACkgUQAAABwZGRma2Fyby5pbnYudHh0UEsBAhQAFAAIC
-AgAsJriUgAAAAAAAAAAAAAAADAAAAAAAAAAAACkgXwAAABhcHAvY
-XBpL19faW5pdFBLBQYAAAAAGAAYAKcAAABhAAAAAAA=
-UEsFBgAAAAAAGAAaAG0AAABqAAAAAAA=
+============================
+Compress PDF
+============================
+<title>Compress PDF Online – Reduce File Size Free | PDF karo.in</title>
+<meta name="description" content="Compress PDF files online without losing quality. 100% free, secure & watermark-free PDF size reducer.">
+<meta name="keywords" content="compress pdf, reduce pdf size, shrink pdf online, compres pdf, pdf optimizer, minimize pdf, scan pdf reduce">
+
+============================
+Merge PDF
+============================
+<title>Merge PDF Files Online – Free & Secure Tool | PDF karo.in</title>
+<meta name="description" content="Merge multiple PDF files into one document online. Easy, fast & secure merging. No watermark or signup required.">
+<meta name="keywords" content="merge pdf, pdf joiner, combine pdfs, merg pdf, merge pdf tool online, merge documents free">
+
+============================
+Image to PDF
+============================
+<title>Convert Image to PDF – JPG, PNG to PDF Free | PDF karo.in</title>
+<meta name="description" content="Convert JPG, PNG, and other images to PDF online for free. Drag & drop tool, no registration, mobile friendly.">
+<meta name="keywords" content="image to pdf, convert image to pdf, jpg to pdf, png to pdf, imag to pdf, photo to pdf">
+
+============================
+OCR PDF
+============================
+<title>OCR PDF – Extract Text from Scanned Files | PDF karo.in</title>
+<meta name="description" content="Use OCR to extract text from scanned PDF documents. 100% free and accurate. No watermark or signup required.">
+<meta name="keywords" content="ocr pdf, extract text from pdf, scanned pdf to text, ocr pdff, convert scanned pdf, pdf text recognition">
+
+============================
+Fill PDF Forms
+============================
+<title>Fill PDF Forms Online – Type into Forms | PDF karo.in</title>
+<meta name="description" content="Fill out interactive PDF forms online for free. Add text, save and download. No software needed.">
+<meta name="keywords" content="fill pdf form, type in pdf, write on pdf, fill form pdf, fill editable pdf, edit pdf form">
+
+============================
+Crop PDF
+============================
+<title>Crop PDF Pages Online – Trim Margins Free | PDF karo.in</title>
+<meta name="description" content="Crop PDF pages online to remove white space and margins. Free tool, easy-to-use, no watermark.">
+<meta name="keywords" content="crop pdf, trim pdf margins, remove white space, crop pages, croping pdf, adjust pdf page">
+
+============================
+General Site Keywords (for homepage or global SEO)
+============================
+free pdf tools, online pdf toolkit, best pdf converter, all in one pdf editor, compress merge convert pdf, secure pdf processing, hindi pdf tools, no watermark pdf tools
